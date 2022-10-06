@@ -1,11 +1,64 @@
-# Sample Snack app
+<h1 align="center">
+    App-Recipes
+</h1>
+<h3 align="center"> 
+  🚧  Finalizado  🚧
+</h3>
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+<p align="center">
+  <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-bibliotecas-usadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Read in English</a>
+</p>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+## 🧑‍💻 Projeto 
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+    Aplicativo mobile de receitas onde o usuário podera fazer cadastro e login, além de ver diversas receitas.
+    O projeto foi desenvolvido ultilizando React Native com expo, firebase Database e Authentication.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+ ### ✅ Demonstração (Mobile) 📲
+<p align="center">
+  
+</p>
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+### ⚙ Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/),[Expo](https://docs.expo.dev/) e/ou [Yarn](https://yarnpkg.com/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+
+### 📗 Rodando a Aplicação
+
+```bash
+📗 Installation
+
+1. $ npm install 
+  or $ yarn install
+2. $ npx expo start
+```
+
+## 🚀 Bibliotecas usadas
+
+### Front-end 
+* React
+* ReactNative
+* Expo
+* JavaScript
+
+### Back-end
+*  Firebase
+*  Cloud Firestore
+*  Authentication
+
+<hr/>
+
+## 🧑‍💻 Project
+
+    Mobile application of recipes where the user can register and login, and see several recipes.
+    The project was developed using React Native with expo, firebase Database and Authentication.
+
+<hr/>
+
+Feito Por [Hugo Nunes](https://www.linkedin.com/in/hugo-nunes-323a41164/).
